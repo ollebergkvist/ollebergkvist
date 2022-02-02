@@ -5,11 +5,11 @@ I'm **Olle Bergkvist**, a Swedish multidisciplinary **Fullstack Javascript Devel
   
   You can visit my homepage [here](https://ollebergkvist.com).
 
-  #### 🔭 Currently working here: [Keller Covered](https://kellercovered.com), [Keller Mortgage](https://kellermortgage.com)
+  🔭 Currently working here: [Keller Covered](https://kellercovered.com), [Keller Mortgage](https://kellermortgage.com)
   
-  #### 📫  How to reach me: hello@ollebergkvist.com
+  📫  How to reach me: hello@ollebergkvist.com
 
-  #### :rocket: Languages and Tools:
+  :rocket: Languages and Tools:
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -37,7 +37,7 @@ I'm **Olle Bergkvist**, a Swedish multidisciplinary **Fullstack Javascript Devel
   ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
   
 
-  #### 🌱 I’m currently learning:
+  🌱 I’m currently learning:
    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
