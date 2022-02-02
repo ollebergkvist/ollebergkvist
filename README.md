@@ -5,7 +5,7 @@ I'm **Olle Bergkvist**, a Swedish multidisciplinary **Fullstack developer** work
   
   Visit my homepage [here](https://ollebergkvist.com).
 
-  #### 🔭 Currently working here: [Applaudo Studios](https://applaudostudios.com), [Keller Covered](https://kellercovered.com), [Keller Mortgage](https://kellermortgage.com)
+  #### 🔭 Currently working here: [Keller Covered](https://kellercovered.com), [Keller Mortgage](https://kellermortgage.com)
   
   #### 📫  How to reach me: hello@ollebergkvist.com
 
