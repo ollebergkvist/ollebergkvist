@@ -1,9 +1,9 @@
-<div align="center">
-  
-  ### Hello! I'm Olle Bergkvist, a Software Engineer from south of Sweden 👋
-  ---
+ ### Hello! I'm Olle Bergkvist, a Software Engineer from south of Sweden 👋
+ ---
 
   I'm a multidisciplinary Fullstack developer working in the cross-section of aesthetics and technology. I help clients with tailor-made developments, based on concrete concepts and sophisticated user-centered experiences, into real business results. With more then 3 years of experience in the industry, I'm focusing on Front and Backend development with a personal preference for the MEVN stack and MERN stack, user experience as well as brand identity.
+  
+---
   
 
   #### 🔭 Currently working here:
@@ -45,9 +45,6 @@
 
   #### 📫  How to reach me: 
   hello@ollebergkvist.com
-
-</div>
-
 
 <!--
 **ollebergkvist/ollebergkvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
