@@ -9,6 +9,7 @@
 
   #### :rocket: Languages and Tools:
   JavaScript, TypeScript, Node, React, Vue, PHP, Python, Git SQL, TypeORM, HTML, CSS
+  ![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 
   #### 🌱 I’m currently learning:
   Next and Gatsby
@@ -17,6 +18,9 @@
   hello@ollebergkvist.com
 
 </div>
+
+[![Olle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollebergkvist)](https://github.com/ollebergkvist/github-readme-stats)
+
 
 <!--
 **ollebergkvist/ollebergkvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
