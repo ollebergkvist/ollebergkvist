@@ -1,11 +1,9 @@
- ### Hello! I'm Olle Bergkvist, a Software Engineer from south of Sweden 👋
+ ### Hello! 👋
 ---
 
-  I'm a multidisciplinary **Fullstack developer** working in the cross-section of aesthetics and technology. I help clients with **tailor-made developments**, based on concrete concepts and sophisticated user-centered experiences, into real **business results**. With more then **3 years of experience** in the industry, I'm focusing on Front and Backend development with a personal preference for the **MEVN stack** and **MERN stack**, user experience as well as brand identity.
+I'm **Olle Bergkvist**, a Swedish multidisciplinary **Fullstack developer** working in the cross-section of aesthetics and technology. I help clients with **tailor-made developments**, based on concrete concepts and sophisticated user-centered experiences, into real **business results**. With more then **3 years of experience** in the industry, I'm focusing on Front and Backend development with a personal preference for the **MEVN stack** and **MERN stack**, user experience as well as brand identity.
   
   Visit my homepage [here](https://ollebergkvist.com).
-  
---------------
 
   #### 🔭 Currently working here:
   [Applaudo Studios](https://applaudostudios.com), [Keller Covered](https://kellercovered.com), [Keller Mortgage](https://kellermortgage.com)
