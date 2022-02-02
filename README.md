@@ -8,7 +8,7 @@
   [Applaudo Studios](https://applaudostudios.com), [Keller Covered](https://kellercovered.com), [Keller Mortgage](https://kellermortgage.com)
 
   #### :rocket: Languages and Tools:
-  Node.JS, React, Vue, TypeORM, TypeScript, JavaScript, HTML, CSS, PHP, Python, SQL, Git
+  JavaScript, TypeScript, Node.JS, React, Vue, PHP, Python, Git SQL, TypeORM, HTML, CSS
 
   #### 🌱 I’m currently learning:
   Next.JS and Gatsby
