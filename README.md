@@ -1,15 +1,19 @@
 <div align="center">
   
   ### I'm Olle Bergkvist, a software engineer from Sweden 👋
+  ---
 
   I'm a multidisciplinary Fullstack developer working in the cross-section of aesthetics and technology. I help clients with tailor-made developments, based on concrete concepts and sophisticated user-centered experiences, into real business results. With more then 3 years of experience in the industry, I'm focusing on Front and Backend development with a personal preference for the MEVN stack and MERN stack, user experience as well as brand identity.
+  
 
   #### 🔭 Currently working here as a Backend developer:
   [Applaudo Studios](https://applaudostudios.com), [Keller Covered](https://kellercovered.com), [Keller Mortgage](https://kellermortgage.com)
 
   #### :rocket: Languages and Tools:
   JavaScript, TypeScript, Node, React, Vue, PHP, Python, Git SQL, TypeORM, HTML, CSS
+  
   ![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
   #### 🌱 I’m currently learning:
   Next and Gatsby
@@ -19,11 +23,10 @@
 
 </div>
 
-[![Olle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollebergkvist)](https://github.com/ollebergkvist/github-readme-stats)
-
 
 <!--
 **ollebergkvist/ollebergkvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Olle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollebergkvist)](https://github.com/ollebergkvist/github-readme-stats)
 
 Here are some ideas to get you started:
 
