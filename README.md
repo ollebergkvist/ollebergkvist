@@ -14,6 +14,8 @@ Next.JS and Gatsby
 #### 📫  How to reach me: 
 hello@ollebergkvist.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollebergkvist)](https://github.com/ollebergkvist/github-readme-stats)
+
 <!--
 **ollebergkvist/ollebergkvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
