@@ -5,8 +5,7 @@ I'm **Olle Bergkvist**, a Swedish multidisciplinary **Fullstack developer** work
   
   Visit my homepage [here](https://ollebergkvist.com).
 
-  #### 🔭 Currently working here:
-  [Applaudo Studios](https://applaudostudios.com), [Keller Covered](https://kellercovered.com), [Keller Mortgage](https://kellermortgage.com)
+  #### 🔭 Currently working here: [Applaudo Studios](https://applaudostudios.com), [Keller Covered](https://kellercovered.com), [Keller Mortgage](https://kellermortgage.com)
 
   #### :rocket: Languages and Tools:
   
@@ -42,8 +41,7 @@ I'm **Olle Bergkvist**, a Swedish multidisciplinary **Fullstack developer** work
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 	![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 
-  #### 📫  How to reach me: 
-  hello@ollebergkvist.com
+  #### 📫  How to reach me: hello@ollebergkvist.com
 
 <!--
 **ollebergkvist/ollebergkvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
