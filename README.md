@@ -8,10 +8,10 @@
   [Applaudo Studios](https://applaudostudios.com), [Keller Covered](https://kellercovered.com), [Keller Mortgage](https://kellermortgage.com)
 
   #### :rocket: Languages and Tools:
-  JavaScript, TypeScript, Node.JS, React, Vue, PHP, Python, Git SQL, TypeORM, HTML, CSS
+  JavaScript, TypeScript, Node, React, Vue, PHP, Python, Git SQL, TypeORM, HTML, CSS
 
   #### 🌱 I’m currently learning:
-  Next.JS and Gatsby
+  Next and Gatsby
 
   #### 📫  How to reach me: 
   hello@ollebergkvist.com
