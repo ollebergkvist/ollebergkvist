@@ -1,7 +1,7 @@
  ### Hi there! 👋
 ---
 
-I'm **Olle Bergkvist**, a Swedish multidisciplinary **Fullstack Javascript Developer** working in the cross-section of aesthetics and technology. I help clients with **tailor-made developments**, based on concrete concepts and sophisticated user-centered experiences, into real **business results**. With more then **3 years of experience** in the industry, I'm focusing on Front and Backend development with a personal preference for the **MEVN stack**, user experience as well as brand identity.
+I'm **Olle Bergkvist**, a Swedish multidisciplinary **Fullstack Javascript Developer** working in the cross-section of aesthetics and technology. I help clients with **tailor-made developments**, based on concrete concepts and sophisticated user-centered experiences, into real **business results**. With more then **3 years of experience** in the industry, I'm focusing on Front and Backend development with a personal preference for the **MERN stack**, user experience as well as brand identity.
 
 🔭 Currently working here: [Keller Covered](https://kellercovered.com), [Keller Mortgage](https://kellermortgage.com)
   
