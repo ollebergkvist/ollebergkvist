@@ -5,7 +5,7 @@ I'm **Olle Bergkvist**, a Swedish multidisciplinary **Fullstack Javascript / Typ
 
 🔭 Past employeers: [Keller Covered](https://kellercovered.com), [Keller Mortgage](https://kellermortgage.com), [Snap](https://www.snapnhd.com/)
   
-  :page_facing_up: You can visit my homepage here: https://ollebergkvist.com.
+  :page_facing_up: You can visit my homepage here: https://ollebergkvist.com/legacy.
   
   📫  How to reach me: hello@ollebergkvist.com
 
